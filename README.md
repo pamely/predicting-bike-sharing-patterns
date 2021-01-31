@@ -24,6 +24,7 @@ To be able to complete this project we installed the following softwares and lib
 - Numpy
 - Pandas
 - Matplotlib
+
 The project is in the folder `first-neural-network`. The dataset is in the folder `Bike-Sharing-Dataset`. Two files files are important to build and train the Neural Network:
 
 - `Your_first_neural_network.ipynb`: In this jupyter notebook, we load and prepare the data on the one hand. On the other, we buold and train the neural network.
